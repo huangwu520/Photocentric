@@ -1,1 +1,0 @@
-java -cp lib/*;. org.area515.resinprinter.slice.SliceBrowser
