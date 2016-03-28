@@ -3,7 +3,7 @@
 cpu=`uname -m`
 
 if [ -z "$1" ]; then
-	repo="kloknibor/Creation-Workshop-Host"
+	repo="kloknibor/Photocentric"
 else
 	repo=$1
 fi;
